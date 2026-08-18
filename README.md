@@ -44,7 +44,7 @@ This project is designed for students learning Python fundamentals.
 Run the program using:
 
 ```bash
-python python_project_1.py
+fundamentals of booster.py
 ```
 
 Follow the on-screen instructions to enter:
@@ -108,6 +108,7 @@ Thank you for using the Personal Data Collector. Goodbye!
 ## 👨‍💻 Author
 
 **Name:** Armin Khareghat
+
 
 **Course:** Python Programming
 
