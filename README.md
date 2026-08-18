@@ -72,8 +72,24 @@ Interactive-Personal-Data-Collector/
 ## 💻 Sample Output
 
 ```
-<img width="576" height="324" alt="project 1 output" src="https://github.com/user-attachments/assets/5d3021b8-96f7-489f-8801-05b1005dfbab" />
+Welcome to the Interactive Personal Data Collector!
 
+Please enter your name: Armin
+Please enter your age: 23
+Please enter your height in meters: 5.9
+Please enter your favorite number: 7
+
+Thank you! Here is the information we have collected:
+
+Name: Armin
+Age: 23
+Height: 5.9
+Favorite Number: 7
+
+Your birth year is approximately: 2003
+Your rounded height is: 5
+
+Thank you for using the Personal Data Collector. Goodbye!
 ```
 
 ---
